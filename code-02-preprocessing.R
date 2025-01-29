@@ -13,4 +13,5 @@ oudlong <- oudemans1889 |>
                        levels = c("1854", "1855", "1870"))) |> 
   select(Page, Dutch, English, Enggano = Forms, Year, Source)
 oudlong |> 
+  mutate(across(where(is.character), ~replace_na(., ""))) |> 
   write_tsv("data/oudemans1889-long.tsv")

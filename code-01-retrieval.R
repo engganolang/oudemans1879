@@ -8,4 +8,5 @@ oudemans1889 |>
          vdStraaten_Severijn__1855 = vdStraaten_Severijn_1855,
          vonRosenberg__1855 = vonRosenberg_1855,
          Boewang__1854 = Boewang_1854) |> 
+  mutate(across(where(is.character), ~replace_na(., ""))) |> 
   write_tsv("data/oudemans1889.tsv")
