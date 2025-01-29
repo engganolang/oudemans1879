@@ -1,0 +1,37 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Digitised comparative Enggano word list derived from
+  Oudeman’s “Engano (bewesten Sumatra), zijne geschiedenis,
+  bewoners en voortbrengselen” from 1889
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Gede Primahadi Wijaya
+    family-names: Rajeg
+    email: primahadi_wijaya@unud.ac.id
+    affiliation: University of Oxford
+    orcid: 'https://orcid.org/0000-0002-2047-8621'
+repository-code: 'https://github.com/engganolang/oudemans1889'
+abstract: >-
+  Digitised comparative Enggano word list from Oudemans
+  (1889), containing the unpublished Enggano word list by
+  Francis (1870), put in comparison with those by Boewang
+  (1854), van de Straaten & Severijn (1855), and von
+  Rosenberg (1855).
+keywords:
+  - Enggano
+  - Old Word List
+  - Enggano Lexical Resources
+  - Enggano Lexical Database
+  - Endangered Language
+  - Language Documentation
+  - Legacy Materials
+  - Digital Humanities
+  - Heritage Preservation
+  - Digital Heritage
+date-released: '2025-01-29'
