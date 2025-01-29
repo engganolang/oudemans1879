@@ -38,8 +38,8 @@ International<img style="height:22px!important;margin-left:3px;vertical-align:te
 
 ## Overview
 
-Digitised comparative Enggano word list from Oudemans
-([1889](#ref-oudemans_engano_1889)), containing the unpublished Enggano
+Digitised comparative Enggano word list from Oudemans ([1889,
+126–37](#ref-oudemans_engano_1889)), containing the unpublished Enggano
 word list by Francis ([1870](#ref-francis_woordenlijstje_1870)), put in
 comparison with those by Boewang ([1854](#ref-boewang_verslag_1854)),
 van de Straaten & Severijn ([1855](#ref-van_der_straaten_verslag_1855)),
