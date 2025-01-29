@@ -15,3 +15,6 @@ oudlong <- oudemans1889 |>
 oudlong |> 
   mutate(across(where(is.character), ~replace_na(., ""))) |> 
   write_tsv("data/oudemans1889-long.tsv")
+oudlong |> 
+  mutate(across(where(is.character), ~replace_na(., ""))) |> 
+  write_csv("data/oudemans1889-long.csv")

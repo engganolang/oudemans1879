@@ -20,11 +20,10 @@ alt="Faculty of Linguistics, Philology and Phonetics, the University of Oxford" 
 src="https://raw.githubusercontent.com/engganolang/digitised-holle-list/main/file-ahrc.png"
 width="325" alt="Arts and Humanities Research Council (AHRC)" />](https://www.ukri.org/councils/ahrc/)
 </br>*This work is funded by the Arts and Humanities Research Council
-(AHRC) Grant IDs
-[AH/S011064/1](https://gtr.ukri.org/projects?ref=AH%2FS011064%2F1) and
-[AH/W007290/1](https://gtr.ukri.org/projects?ref=AH%2FW007290%2F1), both
-led by the Faculty of Linguistics, Philology and Phonetics at the
-University of Oxford, UK. Visit the [central webpage of the Enggano
+(AHRC) (Grant ID:
+[AH/W007290/1](https://gtr.ukri.org/projects?ref=AH%2FW007290%2F1)), led
+by the Faculty of Linguistics, Philology and Phonetics at the University
+of Oxford, UK. Visit the [central webpage of the Enggano
 project](https://enggano.ling-phil.ox.ac.uk/)*.
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/">
