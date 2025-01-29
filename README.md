@@ -45,6 +45,15 @@ comparison with those by Boewang ([1854](#ref-boewang_verslag_1854)),
 van de Straaten & Severijn ([1855](#ref-van_der_straaten_verslag_1855)),
 and von Rosenberg ([1855](#ref-von_rosenberg_beschrijving_1855)).
 
+The [data](https://github.com/engganolang/oudemans1889/tree/main/data)
+is available in two table formats, long and wide table formats, and in
+both .csv and .tsv. The orthography has not been adjusted to the Common
+Enggano orthography. However, such an orthography standard is used when
+the data set is brought together into
+[EnoLEX](https://doi.org/10.25446/oxford.28282169), the Enggano
+diachronic lexical database ([Krauße et al.
+2024](#ref-krause_enolex_2024); [Rajeg et al. 2025](#ref-rajeg_r_2025)).
+
 ### How to cite
 
 Please cite the original source of this dataset as follows (in
@@ -80,11 +89,31 @@ manuscript.
 
 </div>
 
+<div id="ref-krause_enolex_2024" class="csl-entry">
+
+Krauße, Daniel, Gede Primahadi Wijaya Rajeg, Cokorda Rai Adi Pramartha,
+Erik Zobel, Bernd Nothofer, Charlotte Hemmings, Sarah Ogilvie, I Wayan
+Arka, and Mary Dalrymple. 2024. “EnoLEX: A Diachronic Lexical Database
+for the Enggano Language,” September.
+<https://doi.org/10.25446/oxford.28282169.v1>.
+
+</div>
+
 <div id="ref-oudemans_engano_1889" class="csl-entry">
 
 Oudemans, Jean Abraham Chrétien. 1889. “Engano (Bewesten Sumatra), Zijne
 Geschiedenis, Bewoners En Voortbrengselen.” *Tijdschrift van Het
 Koninklijk Nederlandsch Aardrijkskundig Genootschap* 6 (1): 109–64.
+
+</div>
+
+<div id="ref-rajeg_r_2025" class="csl-entry">
+
+Rajeg, Gede Primahadi Wijaya, Daniel Krauße, Cokorda Rai Adi Pramartha,
+Erik Zobel, Bernd Nothofer, Charlotte Hemmings, Sarah Ogilvie, I Wayan
+Arka, and Mary Dalrymple. 2025. “R Codes and Curated Dataset for
+‘EnoLEX: A Diachronic Lexical Database for the Enggano Language’,”
+January. <https://doi.org/10.25446/oxford.28282946.v1>.
 
 </div>
 

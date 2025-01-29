@@ -29,6 +29,8 @@ knitr::opts_chunk$set(
 
 Digitised comparative Enggano word list from Oudemans [-@oudemans_engano_1889], containing the unpublished Enggano word list by Francis [-@francis_woordenlijstje_1870], put in comparison with those by Boewang [-@boewang_verslag_1854], van de Straaten & Severijn [-@van_der_straaten_verslag_1855], and von Rosenberg [-@von_rosenberg_beschrijving_1855].
 
+The [data](https://github.com/engganolang/oudemans1889/tree/main/data) is available in two table formats, long and wide table formats, and in both .csv and .tsv. The orthography has not been adjusted to the Common Enggano orthography. However, such an orthography standard is used when the data set is brought together into [EnoLEX](https://doi.org/10.25446/oxford.28282169), the Enggano diachronic lexical database [@krause_enolex_2024; @rajeg_r_2025].
+
 ### How to cite
 
 Please cite the original source of this dataset as follows (in APA^7th^):
